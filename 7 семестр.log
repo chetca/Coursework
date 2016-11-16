@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2016.5.1)  15 NOV 2016 01:00
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2016.5.1)  16 NOV 2016 22:50
 entering extended mode
 **D:/РҐСѓРЇРЅРґРµРєСЃ/YandexDisk/7*СЃРµРјРµСЃС‚СЂ/7*СЃРµРјРµСЃС‚СЂ.tex
 ("D:/РҐСѓРЇРЅРґРµРєСЃ/YandexDisk/7 СЃРµРјРµСЃС‚СЂ/7 СЃРµРјРµСЃС‚СЂ.tex"
@@ -779,6 +779,9 @@ Overfull \hbox (17.98479pt too wide) in paragraph at lines 557--558
  []
 
 
+LaTeX Warning: Citation `chirkov' on page 23 undefined on input line 579.
+
+
 Overfull \hbox (2.47325pt too wide) in paragraph at lines 574--580
 [][]\T2A/cmr/m/n/14.4 После вы-пол-не-ния циф-ро-во-го диф-фе-рен-ци-аль-но-го 
 ана-ли-за необ-хо-ди-мо рас-
@@ -951,82 +954,101 @@ Underfull \hbox (badness 10000) in paragraph at lines 753--757
 
 [30
 
-] [31
+]
+Underfull \hbox (badness 10000) in paragraph at lines 771--772
+[][]\T2A/cmr/m/n/14.4 Lode's Computer Graphics Tutorial. 2007. URL:
+ []
 
-] [32]
-Overfull \hbox (9.7605pt too wide) in paragraph at lines 816--817
+
+Underfull \hbox (badness 10000) in paragraph at lines 772--773
+[][]\T2A/cmr/m/n/14.4 Making a Basic 3D Engine in Java. 2009. URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 773--774
+[][]\T2A/cmr/m/n/14.4 RAYCASTING - сде-лай се-бе немно-го DOOM'a. 2004. URL:
+ []
+
+[31
+
+] [32] [33]
+Overfull \hbox (9.7605pt too wide) in paragraph at lines 827--828
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (17.98479pt too wide) in paragraph at lines 830--831
-[][][][][][][][][][][][][][][][][][][] 
- []
-
-[33]
-Overfull \hbox (17.98479pt too wide) in paragraph at lines 833--834
+Overfull \hbox (17.98479pt too wide) in paragraph at lines 841--842
 [][][][][][][][][][][][][][][][][][][] 
  []
 
 [34]
-Overfull \hbox (17.98479pt too wide) in paragraph at lines 866--867
+Overfull \hbox (17.98479pt too wide) in paragraph at lines 844--845
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+[35]
+Overfull \hbox (17.98479pt too wide) in paragraph at lines 877--878
 [][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[35] [36]
-Overfull \hbox (42.65765pt too wide) in paragraph at lines 927--928
+[36] [37]
+Overfull \hbox (42.65765pt too wide) in paragraph at lines 938--939
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (26.20908pt too wide) in paragraph at lines 929--930
+Overfull \hbox (26.20908pt too wide) in paragraph at lines 940--941
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (9.7605pt too wide) in paragraph at lines 932--933
+Overfull \hbox (9.7605pt too wide) in paragraph at lines 943--944
 [][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (42.65765pt too wide) in paragraph at lines 934--935
+Overfull \hbox (42.65765pt too wide) in paragraph at lines 945--946
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (26.20908pt too wide) in paragraph at lines 936--937
+Overfull \hbox (26.20908pt too wide) in paragraph at lines 947--948
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (1.53621pt too wide) in paragraph at lines 944--945
+Overfull \hbox (1.53621pt too wide) in paragraph at lines 955--956
 [][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (26.20908pt too wide) in paragraph at lines 945--946
+Overfull \hbox (26.20908pt too wide) in paragraph at lines 956--957
 [][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (9.7605pt too wide) in paragraph at lines 948--949
+Overfull \hbox (9.7605pt too wide) in paragraph at lines 959--960
 [][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (9.7605pt too wide) in paragraph at lines 956--957
+Overfull \hbox (9.7605pt too wide) in paragraph at lines 967--968
 [][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[37] [38] ("D:\РҐСѓРЇРЅРґРµРєСЃ\YandexDisk\7 СЃРµРјРµСЃС‚СЂ\7 СЃРµРјРµСЃС‚СЂ.au
-x") ) 
+[38] [39] ("D:\РҐСѓРЇРЅРґРµРєСЃ\YandexDisk\7 СЃРµРјРµСЃС‚СЂ\7 СЃРµРјРµСЃС‚СЂ.au
+x")
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 5048 strings out of 494046
- 68006 string characters out of 3145948
- 150219 words of memory out of 3000000
- 8260 multiletter control sequences out of 15000+200000
+ 5061 strings out of 494046
+ 68113 string characters out of 3145948
+ 151271 words of memory out of 3000000
+ 8273 multiletter control sequences out of 15000+200000
  14015 words of font info for 30 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  34i,14n,32p,662b,1551s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on "7 СЃРµРјРµСЃС‚СЂ.dvi" (38 pages, 131088 bytes).
+Output written on "7 СЃРµРјРµСЃС‚СЂ.dvi" (39 pages, 134656 bytes).
