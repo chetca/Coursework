@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2016.5.1)  16 NOV 2016 22:50
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2016.5.1)  19 NOV 2016 16:04
 entering extended mode
 **D:/РҐСѓРЇРЅРґРµРєСЃ/YandexDisk/7*СЃРµРјРµСЃС‚СЂ/7*СЃРµРјРµСЃС‚СЂ.tex
 ("D:/РҐСѓРЇРЅРґРµРєСЃ/YandexDisk/7 СЃРµРјРµСЃС‚СЂ/7 СЃРµРјРµСЃС‚СЂ.tex"
@@ -421,16 +421,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 178--181
 
  []
 
-
-Overfull \hbox (4.74635pt too wide) in paragraph at lines 182--189
-[][]\T2A/cmr/m/n/14.4 Каждому зна-че-нию х на экране (для каж-дой вер-ти-каль-н
-ой ли-нии на экране)
- []
-
 File: ris2_1.eps Graphic file (type eps)
 <ris2_1.eps>
-Underfull \hbox (badness 10000) in paragraph at lines 197--203
-
+Overfull \hbox (4.74635pt too wide) in paragraph at lines 189--196
+[][]\T2A/cmr/m/n/14.4 Каждому зна-че-нию х на экране (для каж-дой вер-ти-каль-н
+ой ли-нии на экране)
  []
 
 [7
@@ -438,48 +433,59 @@ Underfull \hbox (badness 10000) in paragraph at lines 197--203
 ]
 File: ris2_2.eps Graphic file (type eps)
  <ris2_2.eps>
-Underfull \hbox (badness 10000) in paragraph at lines 216--220
+Underfull \hbox (badness 10000) in paragraph at lines 204--210
+
+ []
+
+File: ris2_3.eps Graphic file (type eps)
+<ris2_3.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--227
 
  []
 
 [8]
-File: ris2_3.eps Graphic file (type eps)
- <ris2_3.eps>
 File: ris2_4.eps Graphic file (type eps)
  <ris2_4.eps>
-Underfull \hbox (badness 10000) in paragraph at lines 241--246
-
- []
-
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 247--255
-
- []
-
 File: ris2_5.eps Graphic file (type eps)
-<ris2_5.eps>
-Underfull \hbox (badness 10000) in paragraph at lines 256--276
+ <ris2_5.eps> [9]
+Overfull \hbox (18.12529pt too wide) in paragraph at lines 248--253
+\T2A/cmr/m/n/14.4 рен-ци-аль-ном ана-ли-зе. Циф-ро-вой Диф-фе-рен-ци-аль-ный Ан
+а-лиз(Digital Differential
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--262
 
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 277--282
+File: ris2_6.eps Graphic file (type eps)
+ <ris2_6.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 263--283
 
  []
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 283--285
+Underfull \hbox (badness 10000) in paragraph at lines 284--289
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--287
+Underfull \hbox (badness 10000) in paragraph at lines 290--292
 
  []
 
-File: ris2_6.eps Graphic file (type eps)
-<ris2_6.eps>
-Underfull \hbox (badness 10000) in paragraph at lines 295--298
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
 
  []
 
@@ -489,40 +495,51 @@ File: ris2_7.eps Graphic file (type eps)
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--308
+Underfull \hbox (badness 10000) in paragraph at lines 302--305
 
  []
 
 File: ris2_8.eps Graphic file (type eps)
-<ris2_8.eps> [12]
-Underfull \hbox (badness 10000) in paragraph at lines 316--318
-
- []
-
-File: ris2_9.eps Graphic file (type eps)
-<ris2_9.eps>
+<ris2_8.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--327
+Underfull \hbox (badness 10000) in paragraph at lines 313--315
 
  []
 
-[13] [14]
+[12]
+File: ris2_9.eps Graphic file (type eps)
+ <ris2_9.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--325
+
+ []
+
+File: ris2_10.eps Graphic file (type eps)
+<ris2_10.eps> [13]
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+
+ []
+
+[14]
 {\Russian \CYRG \cyrl \cyra \cyrv \cyra } 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--342
+Underfull \hbox (badness 10000) in paragraph at lines 347--349
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--346
+Underfull \hbox (badness 10000) in paragraph at lines 350--353
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--357
+Underfull \hbox (badness 10000) in paragraph at lines 354--363
 
  []
 
@@ -530,127 +547,97 @@ Underfull \hbox (badness 10000) in paragraph at lines 348--357
 
 ]
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 396.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 402.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--399
+Underfull \hbox (badness 10000) in paragraph at lines 396--405
 
  []
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 400--404
+Underfull \hbox (badness 10000) in paragraph at lines 406--410
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 405.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 411.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 405.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 411.
 
-Overfull \hbox (9.7605pt too wide) in paragraph at lines 407--408
+Overfull \hbox (9.7605pt too wide) in paragraph at lines 413--414
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 414--418
+Underfull \hbox (badness 10000) in paragraph at lines 420--424
 
  []
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 423--425
+Underfull \hbox (badness 10000) in paragraph at lines 429--431
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 430--433
+Underfull \hbox (badness 10000) in paragraph at lines 436--439
 
  []
 
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 435.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 441.
 
 Missing character: There is no х in font cmr12!
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 435.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 441.
 
 Missing character: There is no х in font cmr12!
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 438.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 444.
 
 Missing character: There is no х in font cmr12!
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 438.
+LaTeX Warning: Command \cyru invalid in math mode on input line 444.
 
 Missing character: There is no у in font cmr12!
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 439.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 445.
 
 Missing character: There is no х in font cmr12!
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 439.
+LaTeX Warning: Command \cyru invalid in math mode on input line 445.
 
 Missing character: There is no у in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 434--440
+Underfull \hbox (badness 10000) in paragraph at lines 440--446
 
  []
 
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 452--456
+Underfull \hbox (badness 10000) in paragraph at lines 458--462
 
  []
 
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 458.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 464.
 
 Missing character: There is no х in font cmr12!
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 458.
+LaTeX Warning: Command \cyru invalid in math mode on input line 464.
 
 Missing character: There is no у in font cmr12!
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 460.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 466.
 
 Missing character: There is no х in font cmr12!
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 460.
+LaTeX Warning: Command \cyru invalid in math mode on input line 466.
 
 Missing character: There is no у in font cmr12!
 File: ris3_1.eps Graphic file (type eps)
 <ris3_1.eps>
-
-LaTeX Warning: Command \cyrh invalid in math mode on input line 473.
-
-Missing character: There is no х in font cmr12!
-
-LaTeX Warning: Command \cyru invalid in math mode on input line 473.
-
-Missing character: There is no у in font cmr12!
-
-LaTeX Warning: Command \cyrh invalid in math mode on input line 474.
-
-Missing character: There is no х in font cmr12!
-
-LaTeX Warning: Command \cyru invalid in math mode on input line 474.
-
-Missing character: There is no у in font cmr12!
-
-Underfull \hbox (badness 10000) in paragraph at lines 472--476
-
- []
-
-[19]
-
-LaTeX Warning: Command \cyrh invalid in math mode on input line 478.
-
-Missing character: There is no х in font cmr12!
-
-LaTeX Warning: Command \cyru invalid in math mode on input line 479.
-
-Missing character: There is no у in font cmr12!
 
 LaTeX Warning: Command \cyrh invalid in math mode on input line 479.
 
@@ -660,108 +647,104 @@ LaTeX Warning: Command \cyru invalid in math mode on input line 479.
 
 Missing character: There is no у in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 477--481
+LaTeX Warning: Command \cyrh invalid in math mode on input line 480.
+
+Missing character: There is no х in font cmr12!
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 480.
+
+Missing character: There is no у in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 478--482
+
+ []
+
+[19]
+
+LaTeX Warning: Command \cyrh invalid in math mode on input line 484.
+
+Missing character: There is no х in font cmr12!
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 485.
+
+Missing character: There is no у in font cmr12!
+
+LaTeX Warning: Command \cyrh invalid in math mode on input line 485.
+
+Missing character: There is no х in font cmr12!
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 485.
+
+Missing character: There is no у in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--487
 
  []
 
 
-Overfull \hbox (17.98479pt too wide) in paragraph at lines 486--487
+Overfull \hbox (17.98479pt too wide) in paragraph at lines 492--493
 [][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (9.7605pt too wide) in paragraph at lines 495--496
+Overfull \hbox (9.7605pt too wide) in paragraph at lines 501--502
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 502--504
+Underfull \hbox (badness 10000) in paragraph at lines 508--510
 
  []
 
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 505.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 511.
 
 Missing character: There is no х in font cmr12!
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 506.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 512.
 
 Missing character: There is no х in font cmr12!
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 507.
+LaTeX Warning: Command \cyru invalid in math mode on input line 513.
 
 Missing character: There is no у in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 505--508
+Underfull \hbox (badness 10000) in paragraph at lines 511--514
 
  []
 
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 509.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 515.
 
 Missing character: There is no х in font cmr12!
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 510.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 516.
 
 Missing character: There is no х in font cmr12!
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 511.
+LaTeX Warning: Command \cyru invalid in math mode on input line 517.
 
 Missing character: There is no у in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 509--517
+Underfull \hbox (badness 10000) in paragraph at lines 515--523
 
  []
 
 [21]
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 540.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 546.
 
 Missing character: There is no х in font cmr12!
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 540.
+LaTeX Warning: Command \cyru invalid in math mode on input line 546.
 
 Missing character: There is no у in font cmr12!
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 541.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 547.
 
 Missing character: There is no х in font cmr12!
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 542.
-
-Missing character: There is no х in font cmr12!
-
-LaTeX Warning: Command \cyru invalid in math mode on input line 543.
-
-Missing character: There is no у in font cmr12!
-
-LaTeX Warning: Command \cyrh invalid in math mode on input line 543.
-
-Missing character: There is no х in font cmr12!
-
-LaTeX Warning: Command \cyru invalid in math mode on input line 544.
-
-Missing character: There is no у in font cmr12!
-
-LaTeX Warning: Command \cyru invalid in math mode on input line 544.
-
-Missing character: There is no у in font cmr12!
-
-LaTeX Warning: Command \cyrh invalid in math mode on input line 544.
-
-Missing character: There is no х in font cmr12!
-
-Underfull \hbox (badness 10000) in paragraph at lines 538--545
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 546--548
-
- []
-
-
-LaTeX Warning: Command \cyrh invalid in math mode on input line 549.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 548.
 
 Missing character: There is no х in font cmr12!
 
@@ -769,133 +752,157 @@ LaTeX Warning: Command \cyru invalid in math mode on input line 549.
 
 Missing character: There is no у in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--553
+LaTeX Warning: Command \cyrh invalid in math mode on input line 549.
+
+Missing character: There is no х in font cmr12!
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 550.
+
+Missing character: There is no у in font cmr12!
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 550.
+
+Missing character: There is no у in font cmr12!
+
+LaTeX Warning: Command \cyrh invalid in math mode on input line 550.
+
+Missing character: There is no х in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 544--551
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 552--554
+
+ []
+
+
+LaTeX Warning: Command \cyrh invalid in math mode on input line 555.
+
+Missing character: There is no х in font cmr12!
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 555.
+
+Missing character: There is no у in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--559
 
  []
 
 [22]
-Overfull \hbox (17.98479pt too wide) in paragraph at lines 557--558
+Overfull \hbox (17.98479pt too wide) in paragraph at lines 563--564
 [][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-LaTeX Warning: Citation `chirkov' on page 23 undefined on input line 579.
+LaTeX Warning: Citation `chirkov' on page 23 undefined on input line 585.
 
 
-Overfull \hbox (2.47325pt too wide) in paragraph at lines 574--580
+Overfull \hbox (2.47325pt too wide) in paragraph at lines 580--586
 [][]\T2A/cmr/m/n/14.4 После вы-пол-не-ния циф-ро-во-го диф-фе-рен-ци-аль-но-го 
 ана-ли-за необ-хо-ди-мо рас-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 574--580
+Underfull \hbox (badness 10000) in paragraph at lines 580--586
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 581--585
+Underfull \hbox (badness 10000) in paragraph at lines 587--591
 
  []
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 586--589
+Underfull \hbox (badness 10000) in paragraph at lines 592--595
 
  []
 
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 590.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 596.
 
 Missing character: There is no х in font cmr12!
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 591.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 597.
 
 Missing character: There is no х in font cmr12!
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 591.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 597.
 
 Missing character: There is no х in font cmr12!
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 593.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 599.
 
 Missing character: There is no х in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 590--595
+Underfull \hbox (badness 10000) in paragraph at lines 596--601
 
  []
 
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 596.
+LaTeX Warning: Command \cyru invalid in math mode on input line 602.
 
 Missing character: There is no у in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 596--599
+Underfull \hbox (badness 10000) in paragraph at lines 602--605
 
  []
 
 
-Overfull \hbox (9.7605pt too wide) in paragraph at lines 604--605
+Overfull \hbox (9.7605pt too wide) in paragraph at lines 610--611
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (9.7605pt too wide) in paragraph at lines 606--607
+Overfull \hbox (9.7605pt too wide) in paragraph at lines 612--613
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 609--614
+Underfull \hbox (badness 10000) in paragraph at lines 615--620
 
  []
 
 [24]
-Underfull \hbox (badness 10000) in paragraph at lines 615--619
+Underfull \hbox (badness 10000) in paragraph at lines 621--625
 
  []
 
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 631.
+LaTeX Warning: Command \cyru invalid in math mode on input line 637.
 
 Missing character: There is no у in font cmr12!
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 634.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 640.
 
 Missing character: There is no х in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 631--635
+Underfull \hbox (badness 10000) in paragraph at lines 637--641
 
  []
 
 [25]
-Underfull \hbox (badness 10000) in paragraph at lines 653--658
+Underfull \hbox (badness 10000) in paragraph at lines 659--664
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 659--662
+Underfull \hbox (badness 10000) in paragraph at lines 665--668
 
  []
 
 [26]
-Underfull \hbox (badness 10000) in paragraph at lines 678--684
+Underfull \hbox (badness 10000) in paragraph at lines 684--690
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 685--687
+Underfull \hbox (badness 10000) in paragraph at lines 691--693
 
  []
 
 
-Overfull \hbox (26.20908pt too wide) in paragraph at lines 692--693
-[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (26.20908pt too wide) in paragraph at lines 694--695
-[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[27]
 Overfull \hbox (26.20908pt too wide) in paragraph at lines 698--699
 [][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -905,23 +912,33 @@ Overfull \hbox (26.20908pt too wide) in paragraph at lines 700--701
 [][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
+[27]
+Overfull \hbox (26.20908pt too wide) in paragraph at lines 704--705
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
 
-Overfull \hbox (1.53621pt too wide) in paragraph at lines 709--710
+
+Overfull \hbox (26.20908pt too wide) in paragraph at lines 706--707
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (1.53621pt too wide) in paragraph at lines 715--716
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (26.20908pt too wide) in paragraph at lines 710--711
+Overfull \hbox (26.20908pt too wide) in paragraph at lines 716--717
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (9.7605pt too wide) in paragraph at lines 719--720
+Overfull \hbox (9.7605pt too wide) in paragraph at lines 725--726
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 723--724
+Underfull \hbox (badness 10000) in paragraph at lines 729--730
 
  []
 
@@ -931,108 +948,108 @@ File: ris3_2.eps Graphic file (type eps)
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 732--734
+Underfull \hbox (badness 10000) in paragraph at lines 738--740
 
  []
 
 [28]
 File: ris3_3.eps Graphic file (type eps)
  <ris3_3.eps> [29]
-Underfull \hbox (badness 10000) in paragraph at lines 745--748
+Underfull \hbox (badness 10000) in paragraph at lines 751--754
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 749--752
+Underfull \hbox (badness 10000) in paragraph at lines 755--758
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 753--757
+Underfull \hbox (badness 10000) in paragraph at lines 759--763
 
  []
 
 [30
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 771--772
+Underfull \hbox (badness 10000) in paragraph at lines 779--780
 [][]\T2A/cmr/m/n/14.4 Lode's Computer Graphics Tutorial. 2007. URL:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 772--773
-[][]\T2A/cmr/m/n/14.4 Making a Basic 3D Engine in Java. 2009. URL:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 773--774
-[][]\T2A/cmr/m/n/14.4 RAYCASTING - сде-лай се-бе немно-го DOOM'a. 2004. URL:
  []
 
 [31
 
-] [32] [33]
-Overfull \hbox (9.7605pt too wide) in paragraph at lines 827--828
+]
+Underfull \hbox (badness 10000) in paragraph at lines 780--781
+[][]\T2A/cmr/m/n/14.4 Making a Basic 3D Engine in Java. 2009. URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 781--782
+[][]\T2A/cmr/m/n/14.4 RAYCASTING - сде-лай се-бе немно-го DOOM'a. 2004. URL:
+ []
+
+[32] [33]
+Overfull \hbox (9.7605pt too wide) in paragraph at lines 835--836
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (17.98479pt too wide) in paragraph at lines 841--842
+Overfull \hbox (17.98479pt too wide) in paragraph at lines 849--850
 [][][][][][][][][][][][][][][][][][][] 
  []
 
 [34]
-Overfull \hbox (17.98479pt too wide) in paragraph at lines 844--845
+Overfull \hbox (17.98479pt too wide) in paragraph at lines 852--853
 [][][][][][][][][][][][][][][][][][][] 
  []
 
 [35]
-Overfull \hbox (17.98479pt too wide) in paragraph at lines 877--878
+Overfull \hbox (17.98479pt too wide) in paragraph at lines 885--886
 [][][][][][][][][][][][][][][][][][][][][] 
  []
 
 [36] [37]
-Overfull \hbox (42.65765pt too wide) in paragraph at lines 938--939
+Overfull \hbox (42.65765pt too wide) in paragraph at lines 946--947
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (26.20908pt too wide) in paragraph at lines 940--941
+Overfull \hbox (26.20908pt too wide) in paragraph at lines 948--949
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (9.7605pt too wide) in paragraph at lines 943--944
+Overfull \hbox (9.7605pt too wide) in paragraph at lines 951--952
 [][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (42.65765pt too wide) in paragraph at lines 945--946
+Overfull \hbox (42.65765pt too wide) in paragraph at lines 953--954
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (26.20908pt too wide) in paragraph at lines 947--948
+Overfull \hbox (26.20908pt too wide) in paragraph at lines 955--956
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (1.53621pt too wide) in paragraph at lines 955--956
+Overfull \hbox (1.53621pt too wide) in paragraph at lines 963--964
 [][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (26.20908pt too wide) in paragraph at lines 956--957
+Overfull \hbox (26.20908pt too wide) in paragraph at lines 964--965
 [][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (9.7605pt too wide) in paragraph at lines 959--960
-[][][][][][][][][][][][][][][][][] 
  []
 
 
 Overfull \hbox (9.7605pt too wide) in paragraph at lines 967--968
+[][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (9.7605pt too wide) in paragraph at lines 975--976
 [][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
@@ -1043,12 +1060,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 5061 strings out of 494046
- 68113 string characters out of 3145948
- 151271 words of memory out of 3000000
- 8273 multiletter control sequences out of 15000+200000
+ 5065 strings out of 494046
+ 68152 string characters out of 3145948
+ 151281 words of memory out of 3000000
+ 8276 multiletter control sequences out of 15000+200000
  14015 words of font info for 30 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  34i,14n,32p,662b,1551s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on "7 СЃРµРјРµСЃС‚СЂ.dvi" (39 pages, 134656 bytes).
+Output written on "7 СЃРµРјРµСЃС‚СЂ.dvi" (39 pages, 135444 bytes).
