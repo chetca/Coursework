@@ -31,7 +31,7 @@
  Научный руководитель --- асс. каф. ИТ {\bf Брагин Александр Фёдорович}\\
  }
 
-\title[Метод бросания лучей]{3D-визуализация 
+\title[Метод бросания лучей]{3D-визуализация
 двумерного плана помещения\\
 методом бросания лучей}
 
@@ -49,12 +49,12 @@
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}\frametitle{Метод бросания лучей}
-Метод бросания лучей (или рейкастинг) - один из методов рендеринга в компьютерной графике, 
+Метод бросания лучей (или рейкастинг) - один из методов рендеринга в компьютерной графике,
 при котором сцена строится на основе замеров пересечения лучей с визуализируемой поверхностью.
 
 \end{frame}
 \begin{frame}\frametitle{История}
-Метод бросания лучей в публикациях по компьютерной графике впервые был 
+Метод бросания лучей в публикациях по компьютерной графике впервые был
 применён в 1982 г. для отрисовки моделей конструктивной блочной геометрии\\
 
 \begin{figure}[h!]
@@ -103,11 +103,76 @@ Roth, Scott D. (February 1982), "Ray Casting for Modeling Solids", Computer Grap
 \includegraphics[width=7cm]{sl_6}\\
 \end{center}
 \end{figure}
-
 \end{frame}
 
 \begin{frame}\frametitle{Описание метода}
+Основная идея:
 
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=10cm]{sl_7}\\ %основная идея
+\end{center}
+\end{figure}
+\begin{minipage}{0.49 \linewidth}
+$\overrightarrow{a_{i+1}} = a_i + \delta a$\\
+$\overrightarrow{a_0} = A$, $\overrightarrow{a_n}=B$\\
+$\overrightarrow{r_i} = \overrightarrow{a_i} - I$\\
+\end{minipage}
+\hfill
+\begin{minipage}{0.49 \linewidth}
+Алгоритм рейкастинга:\\
+\textit{
+для каждой $\overrightarrow{r_i}$:\\
+~~~$l$ $\leftarrow$ расстояние до стены(I, $\overrightarrow{r_i}$)\\
+~~~$h$ $\leftarrow$ расчитать высоту отрезка $l$\\
+~~~отобразить отрезок $(i, h)$\\
+}
+\end{minipage}
+
+\end{frame}
+\begin{frame}\frametitle{Описание метода}
+Используем алгоритм Цифрового Дифференциального анализатора(DDA) для нахождения расстояния до стены:\\
+\begin{minipage}{0.49 \linewidth}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=5cm]{sl_8}\\ %дда
+\end{center}
+\end{figure}
+\end{minipage}
+\hfill
+\begin{minipage}{0.49 \linewidth}
+\textit{цикл:\\
+~~~если $l_x$ < $l_y$\\
+~~~~~~$l_x$ $\leftarrow$ $l_x$ + $\delta x$\\
+~~~иначе\\
+~~~~~~$l_y$ $\leftarrow$ $l_y$ + $\delta y$\\
+пока $М /[l_x/]/[l_y/]$ не станет $>0$\\
+вернуть $L = \sqrt{l_x^2+l_y^2}$
+}
+\end{minipage}
+\end{frame}
+
+\begin{frame}\frametitle{Описание метода}
+В результате работы алгоритма DDA получаем следующее расстояние:\\
+
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=3cm]{sl_9}\\ %прикол с вектором
+\end{center}
+\end{figure}
+\end{frame}
+
+\begin{frame}\frametitle{Описание метода}
+Делаем поправку для исправления эффекта <<рыбьего глаза>>:\\
+$h = I \overrightarrow{H}$\\
+\textit{
+$l \leftarrow $ расстояние до стены$(\overrightarrow{a_i}, \overrightarrow{h})$
+}\\
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=8cm]{sl_10}\\ %фишай
+\end{center}
+\end{figure}
 \end{frame}
 
 \begin{frame}\frametitle{Заключение}
