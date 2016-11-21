@@ -161,13 +161,33 @@ $M_{i,j}$ - число стоящее в матрице уровня в $i$ строке в $j$ столбце\\
 \end{frame}
 
 \begin{frame}\frametitle{Описание метода: эффект <<рыбьего глаза>>}
-\textit{
-$l \leftarrow $ расстояние до стены$(\overrightarrow{a_i}, \overrightarrow{PH})$}
+\begin{minipage}{0.49 \linewidth}
 \begin{figure}[h!]
 \begin{center}
-\includegraphics[width=8cm]{sl_10}\\ %фишай
+\includegraphics[width=4cm]{sl_10_l}\\ %фишай
 \end{center}
 \end{figure}
+\textit{
+$\text{для каждой } i \in [1,n]$:\\
+{\color{red}\hphantom{мммм}$l \leftarrow \text{расст-до-стены} (\overrightarrow{P}, \overrightarrow{r_i})$}\\
+\hphantom{мммм}$h \leftarrow \text{высота-отрезка}(l)$\\
+\hphantom{мммм}$\text{отобразить-отрезок}(i, h)$\\
+}
+\end{minipage}
+\hfill
+\begin{minipage}{0.49 \linewidth}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=4cm]{sl_10_r}\\ %ноуфишай
+\end{center}
+\end{figure}
+\textit{
+$\text{для каждой } i \in [1,n]$:\\
+{\color{red}\hphantom{мммм}$l \leftarrow \text{расст-до-стены} (\overrightarrow{a_i} - \overrightarrow{PH}, \overrightarrow{PH})$}\\
+\hphantom{мммм}$h \leftarrow \text{высота-отрезка}(l)$\\
+\hphantom{мммм}$\text{отобразить-отрезок}(i, h)$\\
+}
+\end{minipage}
 \end{frame}
 
 \begin{frame}\frametitle{Заключение}
